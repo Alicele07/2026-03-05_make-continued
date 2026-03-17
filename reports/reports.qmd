@@ -1,0 +1,10 @@
+---
+title: "My Reproducible Report"
+format:
+    html:
+        embed-resources: true
+---
+
+Here is our latest data visualization:
+
+![Random Walk](../results/plot.png)
